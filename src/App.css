@@ -32,7 +32,18 @@
   from {
     transform: rotate(0deg);
   }
+
   to {
     transform: rotate(360deg);
   }
+}
+
+
+.dispalyusers {
+  margin: 50px;
+  padding: 20px;
+  background-color: rgb(212, 201, 104);
+  border-radius: 11px;
+  border: 7px solid gray;
+  font-family: sans-serif;
 }
